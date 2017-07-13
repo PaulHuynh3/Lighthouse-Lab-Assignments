@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
         [nissan drive];
         
         //value returning null (not working)
-        Car* toyota = [[Car alloc]init];
+        Toyota* toyota = [[Toyota alloc]init];
         
         [toyota drive];
         
